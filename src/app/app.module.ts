@@ -9,6 +9,7 @@ import { ForumComponent } from './forum/forum.component';
 import { ContatoComponent } from './contato/contato.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +17,8 @@ import { NotFoundComponent } from './not-found/not-found.component';
     GaleriaComponent,
     ForumComponent,
     ContatoComponent,
-    NotFoundComponent
+    NotFoundComponent,
+   
   ],
   imports: [
     BrowserModule,
