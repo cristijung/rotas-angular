@@ -21,3 +21,20 @@ h1, h2 {
     max-width: 90%;
     margin: auto;   
 }
+
+nav {
+    max-width: 100%;
+    background-color: #F60;
+    padding: 2%;
+}
+
+.btn {
+    border: none;
+    background-color: #3C3;    
+    padding: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background .3s;
+    border-radius: 4px;
+    margin-right: 5px;
+}
